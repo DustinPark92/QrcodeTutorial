@@ -13,6 +13,7 @@
 		DAAA7F0324F23EBC005F9C6D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DAAA7F0124F23EBC005F9C6D /* Main.storyboard */; };
 		DAAA7F0524F23EBD005F9C6D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DAAA7F0424F23EBD005F9C6D /* Assets.xcassets */; };
 		DAAA7F0824F23EBD005F9C6D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DAAA7F0624F23EBD005F9C6D /* LaunchScreen.storyboard */; };
+		DAAA7F1024F242BD005F9C6D /* ScannerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAAA7F0F24F242BD005F9C6D /* ScannerViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		DAAA7F0424F23EBD005F9C6D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DAAA7F0724F23EBD005F9C6D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DAAA7F0924F23EBD005F9C6D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DAAA7F0F24F242BD005F9C6D /* ScannerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScannerViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				DAAA7EFB24F23EBC005F9C6D /* AppDelegate.swift */,
 				DAAA7EFD24F23EBC005F9C6D /* SceneDelegate.swift */,
+				DAAA7F0F24F242BD005F9C6D /* ScannerViewController.swift */,
 				DAAA7EFF24F23EBC005F9C6D /* ViewController.swift */,
 				DAAA7F0124F23EBC005F9C6D /* Main.storyboard */,
 				DAAA7F0424F23EBD005F9C6D /* Assets.xcassets */,
@@ -141,6 +144,7 @@
 				DAAA7F0024F23EBC005F9C6D /* ViewController.swift in Sources */,
 				DAAA7EFC24F23EBC005F9C6D /* AppDelegate.swift in Sources */,
 				DAAA7EFE24F23EBC005F9C6D /* SceneDelegate.swift in Sources */,
+				DAAA7F1024F242BD005F9C6D /* ScannerViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
